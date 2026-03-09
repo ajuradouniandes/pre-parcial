@@ -1,0 +1,366 @@
+[
+    {
+        "id": 1000,
+        "birthDate": "1965-07-31",
+        "name": "J.K. Rowling",
+        "description": "Joanne Rowling, who writes under the pseudonyms J. K. Rowling and Robert Galbraith, is an English writer, film producer and screenwriter, best known as the author of the Harry Potter series of books.",
+        "image": "https://static1.mujerhoy.com/www/multimedia/202007/20/media/cortadas/jk-rowling-polemica-transfobia-k0TB-U110849049600hyD-624x936@MujerHoy.jpg",
+        "books": [
+            {
+                "id": 1000,
+                "name": "Harry Potter and the Philosophers stone",
+                "isbn": "9786073193894",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81-Q4oeHicL.jpg",
+                "publishingDate": "1997-06-26",
+                "description": "Harry Potter has been orphaned and lives at home with his abominable aunt and uncle and his unbearable cousin Dudley.",
+                "editorial": {
+                    "id": 1000,
+                    "name": "BLOOMSBURY"
+                }
+            },
+            {
+                "id": 1008,
+                "name": "Harry Potter and the Cursed Child",
+                "isbn": "9781338216660",
+                "image": "https://m.media-amazon.com/images/I/51G+WN7UghL.jpg",
+                "publishingDate": "2017-07-25",
+                "description": "While Harry grapples with a past that refuses to stay where it belongs, his youngest son Albus must struggle with the weight of a family legacy he never wanted.",
+                "editorial": {
+                    "id": 1006,
+                    "name": "Pottermore Publishing"
+                }
+            }
+        ],
+        "prizes": [
+            {
+                "id": 1000,
+                "premiationDate": "2010-01-01",
+                "name": "prize1",
+                "description": "prize1 desc",
+                "organization": {
+                    "id": 1000,
+                    "name": "org1",
+                    "tipo": "PUBLICA"
+                }
+            }
+        ]
+    },
+    {
+        "id": 1001,
+        "birthDate": "1947-09-21",
+        "name": "Stephen King",
+        "description": "Stephen Edwin King, better known as Stephen King and occasionally by his pen name Richard Bachman, is an American writer of horror novels, supernatural fiction, mystery, science fiction and fantasy literature.",
+        "image": "https://imagessl.casadellibro.com/img/autores/292.jpg",
+        "books": [
+            {
+                "id": 1001,
+                "name": "The Shinning",
+                "isbn": "9789588789774",
+                "image": "https://highclass.com.py/wp-content/uploads/2020/09/the-shining-cover.jpg",
+                "publishingDate": "1977-01-28",
+                "description": "REDRUM. That was the word Danny had seen in the mirror. And even though he couldnt read, he understood that it was a message of horror.",
+                "editorial": {
+                    "id": 1001,
+                    "name": "ANCHOR"
+                }
+            },
+            {
+                "id": 1007,
+                "name": "The Stand",
+                "isbn": "9783741619991",
+                "image": "https://m.media-amazon.com/images/I/41M5nekhDNL.jpg",
+                "publishingDate": "2008-06-24",
+                "description": "The plot centers on a deadly pandemic of weaponized influenza and its aftermath, in which the few surviving humans gather into factions that are each led by a personification of either good or evil and seem fated to clash with each other.",
+                "editorial": {
+                    "id": 1005,
+                    "name": "Harper Voyager"
+                }
+            },
+            {
+                "id": 1012,
+                "name": "Billy Summers",
+                "isbn": "1982173610",
+                "image": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781982173616/billy-summers-9781982173616_hr.jpg",
+                "publishingDate": "2021-08-03",
+                "description": "Billy Summers is a man in a room with a gun. He’s a killer for hire and the best in the business. But he’ll do the job only if the target is a truly bad guy. And now Billy wants out.",
+                "editorial": {
+                    "id": 1009,
+                    "name": "Scribner"
+                }
+            },
+            {
+                "id": 1019,
+                "name": "Salems Lot",
+                "isbn": "0385007515",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51z4y3+L6VL._SX329_BO1,204,203,200_.jpg",
+                "publishingDate": "1990-04-01",
+                "description": "Salems Lot is a small New England town with white clapboard houses, tree-lined streets, and solid church steeples.",
+                "editorial": {
+                    "id": 1013,
+                    "name": "Doubleday"
+                }
+            }
+        ],
+        "prizes": [
+            {
+                "id": 1001,
+                "premiationDate": "2010-01-01",
+                "name": "prize2",
+                "description": "prize2 desc",
+                "organization": {
+                    "id": 1001,
+                    "name": "org2",
+                    "tipo": "FUNDACION"
+                }
+            }
+        ]
+    },
+    {
+        "id": 1002,
+        "birthDate": "1917-02-25",
+        "name": "Anthony Burgess",
+        "description": "John Anthony Burgess Wilson was an English writer and composer, who produced a prolific literary and musical oeuvre, being generally known for the 1962 novel A Clockwork Orange, which was made famous by Stanley Kubricks 1971 film of the same name.",
+        "image": "https://trabalibros.com/rs/12066/4886d523-1977-4fa1-ab24-df1b609c897c/7cf/filename/anthony-burgess.jpg",
+        "books": [
+            {
+                "id": 1002,
+                "name": "A clockwork orange",
+                "isbn": "9789584259554",
+                "image": "https://i.pinimg.com/originals/e4/96/38/e49638392935ca19180160886c99dc42.jpg",
+                "publishingDate": "1962-02-09",
+                "description": "A Clockwork Orange, published in 1962, sets the action in the near future of the 1970s. Burgess tells the story of four teenagers, or nadsats, as they are called in the slang created by the author.",
+                "editorial": {
+                    "id": 1002,
+                    "name": "W. W. Norton & Company"
+                }
+            },
+            {
+                "id": 1010,
+                "name": "Napoleon Symphony: A Novel in Four Movements",
+                "isbn": "1846689163",
+                "image": "https://m.media-amazon.com/images/I/51Dc9FnPvyL.jpg",
+                "publishingDate": "2012-01-01",
+                "description": "A grand and affectionate tragicomic symphony to Napoleon Bonaparte.",
+                "editorial": {
+                    "id": 1002,
+                    "name": "W. W. Norton & Company"
+                }
+            }
+        ],
+        "prizes": []
+    },
+    {
+        "id": 1003,
+        "birthDate": "1828-02-08",
+        "name": "Jules Verne",
+        "description": "Jules Gabriel Verne was a French writer, poet and playwright famous for his adventure novels.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/F%C3%A9lix_Nadar_1820-1910_portraits_Jules_Verne_%28restoration%29.jpg/1200px-F%C3%A9lix_Nadar_1820-1910_portraits_Jules_Verne_%28restoration%29.jpg",
+        "books": [
+            {
+                "id": 1003,
+                "name": "20000 leagues under the sea",
+                "isbn": "9786287514454",
+                "image": "https://i.pinimg.com/originals/63/90/98/6390985af0985a3f2af5d41225971cea.jpg",
+                "publishingDate": "1870-06-01",
+                "description": "Combine with giant squids, survive a terrible whirlpool, sail under the ice of the Antarctic.",
+                "editorial": {
+                    "id": 1003,
+                    "name": "Wordsworth Editions Ltd"
+                }
+            },
+            {
+                "id": 1013,
+                "name": "A Journey to the Centre of the Earth",
+                "isbn": "1515420183",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/911A8d8aCYL.jpg",
+                "publishingDate": "2018-04-03",
+                "description": "It all began when Professor Otto Liedenbrock discovered a coded message in an old runic manuscript, but it was his nephew, Axel, who deciphered the messages meaning.",
+                "editorial": {
+                    "id": 1010,
+                    "name": "Fantastic Books"
+                }
+            }
+        ],
+        "prizes": []
+    },
+    {
+        "id": 1004,
+        "birthDate": "1893-01-24",
+        "name": "Viktor Shklovsky",
+        "description": "Viktor Borisovich Shklovsky was a Russian and Soviet critic, writer and pamphleteer. He presented some basic concepts of the theory of formalism, works of art of traditional character and a set of techniques used on the same author.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Sklovsky.jpg/220px-Sklovsky.jpg",
+        "books": [
+            {
+                "id": 1004,
+                "name": "A sentimental journey",
+                "isbn": "9788412064414",
+                "image": "https://pictures.abebooks.com/isbn/9780801492914-us.jpg",
+                "publishingDate": "1972-01-01",
+                "description": "Sentimental Journey describes the travels of a bewildered intellectual through Russia, Persia, Ukraine, and the Caucasus during the period of the Russian Revolution.",
+                "editorial": {
+                    "id": 1004,
+                    "name": "NCROL"
+                }
+            }
+        ],
+        "prizes": []
+    },
+    {
+        "id": 1005,
+        "birthDate": "1943-11-07",
+        "name": "Stephen Greenblatt",
+        "description": "Stephen Jay Greenblatt is an American literary historian and author.",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/A13mv+tt1mL._SX450_.jpg",
+        "books": [
+            {
+                "id": 1005,
+                "name": "The swerve",
+                "isbn": "9789584299109",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61xZcJgkejL.jpg",
+                "publishingDate": "2011-09-19",
+                "description": "Nearly six hundred years ago, in 1417, an Italian humanist set out on a journey to visit German convents in search of ancient manuscripts.",
+                "editorial": {
+                    "id": 1003,
+                    "name": "Wordsworth Editions Ltd"
+                }
+            },
+            {
+                "id": 1018,
+                "name": "The Rise and Fall of Adam and Eve",
+                "isbn": "9780393240801",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51bq0cD0JAL._SX327_BO1,204,203,200_.jpg",
+                "publishingDate": "2017-09-12",
+                "description": "Bolder, even, than the ambitious books for which Stephen Greenblatt is already renowned, The Rise and Fall of Adam and Eve explores the enduring story of humanity’s first parents.",
+                "editorial": {
+                    "id": 1002,
+                    "name": "W. W. Norton & Company"
+                }
+            }
+        ],
+        "prizes": []
+    },
+    {
+        "id": 1006,
+        "birthDate": "1948-09-20",
+        "name": "George R. R. Martin",
+        "description": "George Raymond Richard Martin is an American novelist, screenwriter, television producer and short story writer.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/George_R.R._Martin_at_Archipelacon.jpg/800px-George_R.R._Martin_at_Archipelacon.jpg",
+        "books": [
+            {
+                "id": 1006,
+                "name": "A Storm of Swords",
+                "isbn": "9780007447848",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51XJUf1j6XL._SX324_BO1,204,203,200_.jpg",
+                "publishingDate": "2011-01-01",
+                "description": "The third volume, part one of A Song of Ice and Fire, the greatest fantasy epic of the modern age.",
+                "editorial": {
+                    "id": 1005,
+                    "name": "Harper Voyager"
+                }
+            },
+            {
+                "id": 1009,
+                "name": "Dreamsongs: Volume I",
+                "isbn": "0553385682",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51jrygJ0coL._SX330_BO1,204,203,200_.jpg",
+                "publishingDate": "2012-10-16",
+                "description": "Even before A Game of Thrones, George R. R. Martin had already established himself as a giant in the field of fantasy literature.",
+                "editorial": {
+                    "id": 1007,
+                    "name": "Bantam"
+                }
+            }
+        ],
+        "prizes": []
+    },
+    {
+        "id": 1007,
+        "birthDate": "1963-12-25",
+        "name": "Ben Macintyre",
+        "description": "British author, historian, reviewer and columnist for The Times newspaper. His columns range from current affairs to historical controversies.",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/61egLZ6HeiL._SX450_.jpg",
+        "books": [
+            {
+                "id": 1011,
+                "name": "The Spy and the Traitor: The Greatest Espionage Story of the Cold War",
+                "isbn": "1101904216",
+                "image": "https://m.media-amazon.com/images/I/51aXfsEDF4L.jpg",
+                "publishingDate": "2019-08-06",
+                "description": "Unfolding the delicious three-way gamesmanship between America, Britain, and the Soviet Union, and culminating in the gripping cinematic beat-by-beat of Gordievskys nail-biting escape from Moscow in 1985, Ben Macintyres latest may be his best yet.",
+                "editorial": {
+                    "id": 1008,
+                    "name": "Crown"
+                }
+            },
+            {
+                "id": 1016,
+                "name": "Agent Sonya: Moscows Most Daring Wartime Spy",
+                "isbn": "0593136306",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51J1+9BOxjL._SX327_BO1,204,203,200_.jpg",
+                "publishingDate": "2020-09-15",
+                "description": "In 1942, in a quiet village in the leafy English Cotswolds, a thin, elegant woman lived in a small cottage with her three children and her husband, who worked as a machinist nearby.",
+                "editorial": {
+                    "id": 1008,
+                    "name": "Crown"
+                }
+            }
+        ],
+        "prizes": []
+    },
+    {
+        "id": 1008,
+        "birthDate": "1986-03-05",
+        "name": "Sarah J. Maas",
+        "description": "American fantasy author, best known for her debut series Throne of Glass.",
+        "image": "https://images.gr-assets.com/authors/1582137198p8/3433047.jpg",
+        "books": [
+            {
+                "id": 1014,
+                "name": "House of Sky and Breath",
+                "isbn": "1635574072",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51sMvVvUL2L._SX324_BO1,204,203,200_.jpg",
+                "publishingDate": "2022-02-15",
+                "description": "Bryce Quinlan and Hunt Athalar are trying to get back to normal―they may have saved Crescent City, but with so much upheaval in their lives lately, they mostly want a chance to relax.",
+                "editorial": {
+                    "id": 1011,
+                    "name": "Bloomsbury Publishing"
+                }
+            },
+            {
+                "id": 1015,
+                "name": "A Court of Silver Flames",
+                "isbn": "168119628",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51jbLXlw5kL._SX320_BO1,204,203,200_.jpg",
+                "publishingDate": "2021-02-16",
+                "description": "Nesta Archeron has always been prickly-proud, swift to anger, and slow to forgive.",
+                "editorial": {
+                    "id": 1011,
+                    "name": "Bloomsbury Publishing"
+                }
+            }
+        ],
+        "prizes": []
+    },
+    {
+        "id": 1009,
+        "birthDate": "1970-02-02",
+        "name": "Elena Gorokhova",
+        "description": "Elena Gorokhova grew up in St. Petersburg, Russia, although for most of her life it was known to her as Leningrad.",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/amzn-author-media-prod/6ikvlvmfubu2pfb0abqsa1kf6._SX450_.jpg",
+        "books": [
+            {
+                "id": 1017,
+                "name": "A Train to Moscow",
+                "isbn": "154203387",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51fl3OkYyeL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg",
+                "publishingDate": "2022-03-01",
+                "description": "In a small, provincial town behind the Iron Curtain, Sasha lives in a house full of secrets, one of which is her own dream of becoming an actress.",
+                "editorial": {
+                    "id": 1012,
+                    "name": "Lake Union Publishing"
+                }
+            }
+        ],
+        "prizes": []
+    }
+]
