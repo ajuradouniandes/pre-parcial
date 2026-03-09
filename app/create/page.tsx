@@ -2,8 +2,8 @@
 /* eslint-disable @typescript-eslint/no-explicit-any */
 
 "use client";
-
-import { useAuthors } from "@/context/AuthorsContext";
+import React from "react";
+import { useAuthors } from "../../context/AuthorsContext";
 import { useSearchParams, useRouter } from "next/navigation";
 import { useEffect, useState } from "react";
 
@@ -110,11 +110,11 @@ export default function CreateAuthor() {
 
                 <button
                     type="submit"
+                    disabled={!name || !birthDate}
                     className="bg-blue-500 text-white py-2 rounded"
-                >
-                    Guardar
+                    >
+                        Guardar
                 </button>
-
             </form>
         </div>
     );

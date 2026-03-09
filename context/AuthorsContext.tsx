@@ -1,9 +1,9 @@
 /* eslint-disable @typescript-eslint/no-explicit-any */
 "use client";
 
-import { createContext, useContext, useEffect, useState } from "react";
+import React ,{ createContext, useContext, useEffect, useState } from "react";
 
-const AuthorsContext = createContext<any>(null);
+export const AuthorsContext = createContext<any>(null);
 
 export function AuthorsProvider({ children }: any) {
     const [authors, setAuthors] = useState<any[]>([]);
